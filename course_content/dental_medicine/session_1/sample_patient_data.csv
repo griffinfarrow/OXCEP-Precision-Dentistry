@@ -1,9 +1,0 @@
-patient_id,age,gender,diagnosis,systolic_bp,hba1c,medication_adherence
-P001,45,M,Hypertension,140,5.2,0.85
-P002,62,F,Diabetes,130,8.1,0.72
-P003,38,F,Asthma,110,5.0,0.95
-P004,71,M,Diabetes,145,9.2,0.68
-P005,29,F,Hypertension,125,4.8,0.9
-P006,55,M,Diabetes,155,7.8,0.75
-P007,68,F,Asthma,115,5.1,0.88
-P008,42,M,Hypertension,138,5.5,0.82
