@@ -1,0 +1,16 @@
+name: precision-course-env
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.9
+  - numpy=1.24.*
+  - scipy=1.8.*
+  - pandas=2.2.*
+  - scikit-learn=1.4.*
+  - shap=0.41.*
+  - lifelines=0.30.*
+  - matplotlib=3.8.*
+  - notebook=7.4.*
+  - ipykernel=6.29.*
+  - jupyterlab=4.4.*
