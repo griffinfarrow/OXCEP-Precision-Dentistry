@@ -70,3 +70,10 @@ The course content is provided in the `course_content/` directory. We briefly su
 The complete datasets are found in `datasets/`, along with a description of the algorithm used to produce them in `datasets/Data_Generation_Algorithm.md`. These files are only provided for interest. 
   
 The data that you will actually use is provided in the course content when you need it. 
+
+## Extra Learning Resources  
+
+If you've enjoyed this course, then great! We hope that you will continue to use machine learning and AI in your future work! There are many places where you can get additional resources to help build your knowledge of how these techniques work. 
+- Kaggle: `https://www.kaggle.com/` is a community for data science and machine learning where you can practice your skills on many different datasets and problems
+- Coursera: `https://www.coursera.org/` is a website with courses that you can take in various aspects of machine learning. Look at the "Deep Learning Specialisation" by Andrew Ng.
+- Youtube has lots of great resources; some of our favourite channels that cover ML-related content are "3Blue1Brown", "StatQuest with Josh Starmer" and "Very Normal"
